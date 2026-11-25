@@ -1,5 +1,6 @@
 # Ims-ai-2302110005
-name-Ayushman patel 
+name-Ayushman patel
+ 
 subject - IMS AIPO
 
 Parametric CAD script testing whether moving a through-hole changes a rectangular plate's volume.(day7)
